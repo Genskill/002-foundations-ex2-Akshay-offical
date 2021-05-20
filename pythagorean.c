@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <zs50.h>
+#include <cs50.h>
 
 int main(){
     float x,y,z,smallerside_1,smallerside_2,largerside;
