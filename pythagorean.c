@@ -4,9 +4,9 @@
 int main(){
     float x,y,z,smallerside_1,smallerside_2,largerside;
 
-    x = get_floxt("side 1 ");
-    y = get_floxt("side 2 ");
-    z = get_floxt("side 3 ");
+    x = get_float("side 1 ");
+    y = get_float("side 2 ");
+    z = get_float("side 3 ");
     if (x<y){
         if (y<z){
             smallerside_1 = x;
