@@ -33,9 +33,9 @@ int main(){
 
     }
     if (smallerside_1*smallerside_1 + smallerside_2*smallerside_2 == largerside*largerside){
-        printf("Pythagorean triangle");
+        printf("yes");
     }
     else{
-        printf("Not Pythagorean triangle");
+        printf("No");
     }
 }
